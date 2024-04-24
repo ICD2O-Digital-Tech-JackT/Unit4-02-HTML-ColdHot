@@ -1,4 +1,32 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
-*/
+html {
+  background-color: #efc4bd;
+}
+
+h1 {
+  font-family: monospace;
+  color: #661a00;
+  background-color: #d15b3d;
+  padding: 20px;
+  margin: 0;
+}
+
+p {
+  color: #591003;
+  font-weight: 800;
+  font-size: 17px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+th {
+  padding: 10px;
+  background-color: #ffe5e5;
+}
+
+td {
+  padding: 10px;
+  background-color: #f5b8b8;
+}
+
+table {
+  border-spacing: 10px;
+}
